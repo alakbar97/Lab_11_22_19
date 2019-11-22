@@ -1,0 +1,6 @@
+D:\Private\lab items\Lab_Customer_Credits\Lab_Customer_Credits\bin\Debug\Lab_Customer_Credits.exe.config
+D:\Private\lab items\Lab_Customer_Credits\Lab_Customer_Credits\bin\Debug\Lab_Customer_Credits.exe
+D:\Private\lab items\Lab_Customer_Credits\Lab_Customer_Credits\bin\Debug\Lab_Customer_Credits.pdb
+D:\Private\lab items\Lab_Customer_Credits\Lab_Customer_Credits\obj\Debug\Lab_Customer_Credits.csprojAssemblyReference.cache
+D:\Private\lab items\Lab_Customer_Credits\Lab_Customer_Credits\obj\Debug\Lab_Customer_Credits.exe
+D:\Private\lab items\Lab_Customer_Credits\Lab_Customer_Credits\obj\Debug\Lab_Customer_Credits.pdb
